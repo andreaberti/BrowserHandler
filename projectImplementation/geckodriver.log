@@ -1,0 +1,23 @@
+1603700723013	geckodriver	INFO	Listening on 127.0.0.1:57213
+1603700724016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9kWaZn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603700726110	Marionette	INFO	Listening on port 36561
+1603700726145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.it.IALLf7YF1wc.O/ck=xjs.s.QsOl9ASo5Pc.L.F4.O/am=AAAAAAAAwAAAAABLwNwNAI7_IADggkscAAAAAEiAlgSNBVKAhIQACAAAQDgLJQAAEA/d=1/exm=ZyRBae,cdos,cr,csi,d,dpf,hsm,jsa,pfd/ed=1/dg=2/ct=zgms/rs=ACT90oF9zNcSKUN-YQU2bACznGO5wdd7Hg/m=Fk55qd,GxIAgd,HLiDHf,Kji6yc,MB3mMb,NBZ7u,NpD4ec,OG6ZHd,PWuiIf,T6sTsf,T7XTS,TxZWcc,URQPYc,UTxq6e,Z1VZRe,a8CvV,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,foot,iD8Yk,kVbfxd,kyn,lli,lr,lu,m,m6a0l,mUpTid,maary,mu,o02Jie,pB6Zqd,qik19b,runuse,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xz7cCd,zbML3c?xjs=s1, line 1523: TypeError: this.ka is not a function
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605516942006	geckodriver	INFO	Listening on 127.0.0.1:36679
+1605516943018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFGk9eK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605516945075	Marionette	INFO	Listening on port 41179
+1605516945147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
