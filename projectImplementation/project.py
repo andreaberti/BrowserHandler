@@ -19,7 +19,7 @@ num_tab = {'uno':1, 'due':2, 'tre':3, 'quattro':4, 'cinque':5, 'sei':6, 'sette':
 
 
 def speechInit():
-    speech_key, service_region = '484279567875463d84113b71af91d355', 'uksouth'
+    speech_key, service_region = 'AZURE-KEY', 'uksouth'
     speech_config = sp.SpeechConfig(subscription=speech_key, region=service_region)
     speech_config.speech_recognition_language='it-IT'
     speech_recognizer = sp.SpeechRecognizer(speech_config=speech_config)
